@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.capgemini</groupId>
-	<artifactId>EmployeeCrudApplication</artifactId>
+	<artifactId>EmployeeCrud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>EmployeeCrud</name>
 	<description>Employee Crud</description>
